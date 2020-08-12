@@ -9,7 +9,7 @@ script will install python for you. I made this to help others that run into the
 Thanks and Enjoy
 
 ## Usage
-```python
+```yaml
 git clone https://github.com/x10mrrobot01x/python-installer.git
 cd python-installer
 chmod +x python-installer.sh
@@ -19,7 +19,7 @@ chmod +x python-installer.sh
 #### Follow on Instagram
 [Follow Me](https://www.instagram.com/xmrrobotx1/)
 #### Follow on Twitter
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=MrRobot&style=social&url=https%3A%2F%2Ftwitter.com%2FMrRobot38159405"></img>
+![Twitter Follow](https://img.shields.io/twitter/follow/MrRobot38159405?label=Follow&style=social)
 #### Sub to my YT Channel
 [YT Channel](https://www.youtube.com/channel/UC4m514Ek47PsffUuTrrakTA?view_as=subscriber)
 #### Discord Server
