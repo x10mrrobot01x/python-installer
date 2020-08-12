@@ -1,4 +1,4 @@
-<img src="./python.png" "width="100%">
+<img src="python.png" "width="100%">
 
 # Python Installer
 
