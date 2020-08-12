@@ -24,3 +24,4 @@ chmod +x python-installer.sh
 [YT Channel](https://www.youtube.com/channel/UC4m514Ek47PsffUuTrrakTA?view_as=subscriber)
 #### Discord Server
 [Join Us](https://discord.gg/YXHyZ28)
+![Discord](https://img.shields.io/discord/721959501871317096?logoColor=blue&style=plastic)
