@@ -19,6 +19,7 @@ chmod +x python-installer.sh
 #### Follow on Instagram
 [Follow Me](https://www.instagram.com/xmrrobotx1/)
 #### Follow on Twitter
+[Follow Me](https://twitter.com/MrRobot38159405)
 ![Twitter Follow](https://img.shields.io/twitter/follow/MrRobot38159405?label=Follow&style=social)
 #### Sub to my YT Channel
 [YT Channel](https://www.youtube.com/channel/UC4m514Ek47PsffUuTrrakTA?view_as=subscriber)
