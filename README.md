@@ -2,9 +2,9 @@
 
 # Python Installer
 
-Python installer is a bash script to install python-1.6.1. When i was trying to install python on my server
-i kept getting an error message telling me python has been deprecated and to install python2 or 3. So this
-script will install python for you. It installs the gunzip package and builds from source code.
+Python installer is a bash script to install python-1.6.1. When I was trying to install just regular python on my server,
+I kept getting an error message telling me python has been deprecated and to install python2 or 3. So this
+script will install python for you. I made this to help others that run into the error/problem. It will automate the process for you and thats what we all like right. xD
 
 Thanks and Enjoy
 
